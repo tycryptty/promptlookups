@@ -1,0 +1,5 @@
+{
+    "name": "Summarize and Explain News Article",
+    "objective": "To provide a concise and reader-friendly summary and explanation of a provided news article, focusing on the main points, context, and any technical terms or concepts.",
+    "content": "Provide the Article: Paste the full text of the news article to be analyzed. Summarize Key Points: Identify and summarize the main events or actions described in the article. Highlight important figures, dates, and background information. Explain Context and Implications: Explain why the events or actions are significant. Discuss potential outcomes or effects. Clarify Technical Terms: Identify any technical terms or concepts. Provide clear and simple explanations for these terms. Answer Specific Questions: Answer any specific questions provided about the article. Ensure the answers are concise and informative."
+}
