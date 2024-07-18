@@ -1,0 +1,17 @@
+{
+  "name": "instruction-lookup",
+  "version": "1.0.0",
+  "description": "A website to store and lookup useful instructions based on keywords.",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir -p dist && cp -R * dist/ && rm -rf dist/{node_modules,.git,.github,.vscode}",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
